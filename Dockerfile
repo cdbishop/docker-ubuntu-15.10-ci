@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM vcatechnology/docker-ubuntu-15.10
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
